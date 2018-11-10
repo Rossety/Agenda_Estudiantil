@@ -85,3 +85,5 @@ la tarjet de jugador tiene que reflejar cierta información del jugador que nece
 
 
 -fomentar el trabajo en equipo haciéndolo ver como un sistema de puntos para elegir a sus compañeros (podría ser descartado por que los maestros prefieren crear los grupos ellos mismos)
+
+para las mecanicas de juego sera necesario un diagrama de flujos
