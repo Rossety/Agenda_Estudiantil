@@ -1,5 +1,4 @@
-# AgendaEstudiantil
-Nombre en proceso
+# Agenda Estudiantil
 
 # Objetivo
 Crear un programa que ayude al alumno a organizarse en sus trabajos y proyectos. Crear una coordinacion entre alumnos a la hora de crear grupos de trabajo/estudio. Y abrir la comunicacion entre estudiante y profesor.
