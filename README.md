@@ -27,6 +27,7 @@ El alumno tendrá una tarjeta de jugador que indique:
 -Rango (en relación al semestre en el que se encuentra)
 
 
+
 2.-Tienda de skins/accesorios
 
 Será actualizada la tienda con accesorios y skins donde los estudiantes podrán gastar sus puntos ganados, los cuales se ganarán asistiendo a eventos o realizando tareas. También mostrara los skins de evento que serán posible ganarse y sus requisitos para obtenerlos (skins legendarios).
