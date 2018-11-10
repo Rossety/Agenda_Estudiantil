@@ -17,10 +17,15 @@ El alumno tendrá acceso a las siguientes características:
 El alumno tendrá una tarjeta de jugador que indique:
 
 -nombre
+
 -titulo
+
 -personaje
+
 -Nivel (en base a las medallas/logros obtenidos)
+
 -Rango (en relación al semestre en el que se encuentra)
+
 
 2.-Tienda de skins/accesorios
 
@@ -67,4 +72,3 @@ para que sea accesible desde ambas herramientas, ya que siempre estamos en const
 
 -posible compatibilidad con los iphone
 El target inicial son los Android que son más accesibles y populares en el estudiante, pero intentará portear a iphone lo más pronto posible para que nadie quede inaccesible.
-
