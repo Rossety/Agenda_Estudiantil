@@ -3,6 +3,7 @@ Nombre en proceso
 
 # Objetivo
 Crear un programa que ayude al alumno a organizarse en sus trabajos y proyectos. Crear una coordinacion entre alumnos a la hora de crear grupos de trabajo/estudio. Y abrir la comunicacion entre estudiante y profesor.
+
 # Concepto
 El programa estará dividido en 2 programas, alumno receptor de trabajos y profesor emisor de tareas
 
@@ -29,19 +30,21 @@ Un bloc de notas donde el estudiante pueda hacer apuntes rápidos en caso de no 
 
 5.-Partie
 Desde aquí el estudiante podrá ver en que grupos se encuentra registrado para tareas en equipo, sus pendientes grupales y las tarjetas de estudiante de los demás integrantes de los equipos. Al entrar a la herramienta se verán categorías por grupos. Una vez seleccionado el grupo, estará separado apartados por
-1.-Materia del grupo
-2.-Lider del grupo
-3.-Pendientes
-4.-Integrantes (sus tarjetas de jugador)
+-Materia del grupo
+-Lider del grupo
+-Pendientes
+-Integrantes (sus tarjetas de jugador)
 
 6.-Bloc de tareas
 Las tareas emitidas en este apartado serán por parte del maestro, desde una aplicación emisora (administrador) el maestro podrá enviar tareas que serán reflejadas en este apartado de la aplicación de los estudiantes que se encuentran registrados en su materia. Cuando el alumno haya terminado y entregado la tarea, el maestro podrá señalar como recibido y su respectiva calificacion, en la hora en la que se haya recibido. Según se haya recibido antes de la hora, el estudiante tendrá una bonificación extra
+
 1.-opciones
 Las opciones configurables de la aplicación
 
-#Características extra:
+# Características extra:
 -posible compatibilidad con los ordenadores
 para que sea accesible desde ambas herramientas, ya que siempre estamos en constante conexión desde ambos dispositivos
+
 -posible compatibilidad con los iphone
 El target inicial son los Android que son más accesibles y populares en el estudiante, pero intentará portear a iphone lo más pronto posible para que nadie quede inaccesible.
 
