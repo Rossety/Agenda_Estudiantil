@@ -3,41 +3,45 @@ Nombre en proceso
 
 # Objetivo
 Crear un programa que ayude al alumno a organizarse en sus trabajos y proyectos. Crear una coordinacion entre alumnos a la hora de crear grupos de trabajo/estudio. Y abrir la comunicacion entre estudiante y profesor.
+# Concepto
+El programa estará dividido en 2 programas, alumno receptor de trabajos y profesor emisor de tareas
 
-# caracteristicas a cumplir
+# Estudiante
+aplicación en el Android
+El alumno tendrá acceso a las siguientes características:
 
--un calendario que permita ver los trabajos organizados en dias y horas por dia
+1.- tarjeta de jugador
+El alumno tendrá una tarjeta de jugador que indique:
+-nombre
+-titulo
+-personaje
+-Nivel (en base a las medallas/logros obtenidos)
+-Rango (en relación al semestre en el que se encuentra)
 
--un notepad que permita hacer apuntes escolares que tenga la capacidad de organizarlos de forma automatica en la materia correspondiente por medio de etiquetas
+2.-Tienda de skins/accesorios
+Será actualizada la tienda con accesorios y skins donde los estudiantes podrán gastar sus puntos ganados, los cuales se ganarán asistiendo a eventos o realizando tareas. También mostrara los skins de evento que serán posible ganarse y sus requisitos para obtenerlos (skins legendarios).
 
--un apartado de tareas que permita revisar todas las tareas anotadas con la etiqueta a la materia que corresponde, en orden ascendente segun cual se tenga que entregar primero
+3.-Calendario escolar
+eventos emitidos por el directivo y los maestros, tendrá tantos los eventos escolares y conferencias, como las tareas ya organizadas. El calendario debe reflejar información tanto mensual (en una cuadricula del mes por día) tanto semanal (en la columna indicara el día, las filas indicaran las horas), y mostrará con una palomita si fuiste al evento/terminaste la tarea/estuviste en la conferencia. En caso de haber realizado el evento recibirás bonificaciones.
 
--que tenga la capacidad de que el profesor pueda comunicar que material puede usar para cada tarea dada
+4.-Notepad
+Un bloc de notas donde el estudiante pueda hacer apuntes rápidos en caso de no tener la libreta a la mano, el programa colocara la etiqueta automáticamente de la materia según en la hora que en encuentre. sin embargo, el estudiante puede cambiar la etiqueta manualmente. Posteriormente el alumno puede ver todas las anotaciones que ha hecho tanto para revisarlos para recordar apuntes clave con para copiarlos a su libreta
 
--que el alumno tenga la capacidad de comparar en un sistema de medallas o puntaje con que alumno es mas conveniente trabajar
+5.-Partie
+Desde aquí el estudiante podrá ver en que grupos se encuentra registrado para tareas en equipo, sus pendientes grupales y las tarjetas de estudiante de los demás integrantes de los equipos. Al entrar a la herramienta se verán categorías por grupos. Una vez seleccionado el grupo, estará separado apartados por
+1.-Materia del grupo
+2.-Lider del grupo
+3.-Pendientes
+4.-Integrantes (sus tarjetas de jugador)
 
--crear una motivacion al estudiante a ser parte del juego, por medio de sistema de niveles, que por medio de eventos escolares obtengan skins o elementos que motiven al jugador a ir a esos eventos por dichos objetos
+6.-Bloc de tareas
+Las tareas emitidas en este apartado serán por parte del maestro, desde una aplicación emisora (administrador) el maestro podrá enviar tareas que serán reflejadas en este apartado de la aplicación de los estudiantes que se encuentran registrados en su materia. Cuando el alumno haya terminado y entregado la tarea, el maestro podrá señalar como recibido y su respectiva calificacion, en la hora en la que se haya recibido. Según se haya recibido antes de la hora, el estudiante tendrá una bonificación extra
+1.-opciones
+Las opciones configurables de la aplicación
 
-# tarjeta de jugador
-a partir de aqui nos referiremos como jugador al estudiante
-la tarjet de jugador tiene que reflejar cierta informacion del jugador que necesita saber otros jugadores sobre su rendimiento escolar, esto en un sistema ludificado para que se sientan en un videojuego, donde ellos son los jugadores y el videojuego es el tecnologico
+#Características extra:
+-posible compatibilidad con los ordenadores
+para que sea accesible desde ambas herramientas, ya que siempre estamos en constante conexión desde ambos dispositivos
+-posible compatibilidad con los iphone
+El target inicial son los Android que son más accesibles y populares en el estudiante, pero intentará portear a iphone lo más pronto posible para que nadie quede inaccesible.
 
-
-caracteristicas
--que diga el nombre del jugador
--que muestre 
--que muestre su nivel (el nivel del jugador tiene relacion a la cantidad de medallas).
-
-
-# ideas random para complementar en el apartado correcto
--crear un soporte para ordenadores, que tenga la capacidad de abrir de forma instantanea al abrir la computadora y lanze notificaciones para que recuerde al estudiante que hay tareas
-
--crear un sistema de tienda para que el estudiante quiera ganar oro que pueda usarse para personalizar el personaje, con esto se busca que el estudiante quiera ganar oro haciendo tareas y/o trabajos
-
--incluir a los maestros a dar informacion, recursos y materiales para que el alumno pueda trabajar con esa tarea
--fomentar el trabajo en equipo haciendolo ver como un sstema de puntos para elegir a sus compañeros (podria ser descartado por que los maestros prefieren crear los grupos ellos mismos)
--bonificaciones a los alumnos que entregen sus trabajos con puntualidad
--que por medios de eventos de la escuela el alumno gane skins de evento, motivandolos a ir aunque sea por el skin
-
-
-se creará un diagrama de flujos sobre las ideas para ver el funcionamiento de estas
