@@ -38,3 +38,6 @@ caracteristicas
 -fomentar el trabajo en equipo haciendolo ver como un sstema de puntos para elegir a sus compañeros (podria ser descartado por que los maestros prefieren crear los grupos ellos mismos)
 -bonificaciones a los alumnos que entregen sus trabajos con puntualidad
 -que por medios de eventos de la escuela el alumno gane skins de evento, motivandolos a ir aunque sea por el skin
+
+
+se creará un diagrama de flujos sobre las ideas para ver el funcionamiento de estas
