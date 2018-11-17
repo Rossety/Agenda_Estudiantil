@@ -2,6 +2,12 @@
 ~falta nombre~
 
 # Requerimientos no funcionales
-Android Studio
-definir lenguaje de programacion (Java/Kotline)
-Base de datos (SQLite)
+# agenda Estudantil
+~falta nombre~
+
+# Requerimientos no funcionales
+1.-Android Studio
+
+2.-definir lenguaje de programacion (Java/Kotline)
+
+3.-Base de datos (SQLite)
