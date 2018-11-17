@@ -2,10 +2,6 @@
 ~falta nombre~
 
 # Requerimientos no funcionales
-# agenda Estudantil
-~falta nombre~
-
-# Requerimientos no funcionales
 1.-Android Studio
 
 2.-definir lenguaje de programacion (Java/Kotline)
@@ -14,6 +10,7 @@
 
 # requerimientos del sistema
 login
+perfil estudiante
 agenda
 administracion de fechas y tareas
 agregar notas o recordatorios
