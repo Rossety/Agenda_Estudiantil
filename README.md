@@ -10,29 +10,19 @@
 
 # requerimientos del sistema
 login
+
 perfil estudiante
+
 agenda
+
 administracion de fechas y tareas
+
 agregar notas o recordatorios
+
 administracion de grupos
+
 mensajeria
+
 notificaciones al celular
 
-# Pantallas
-login
-
-principal
-
-perfil
-
-agenda
-
-tareas
-
-grupos
-
-clanes
-
-notas
-
-configuraciones
+pantallas (interfaz de usuario)
