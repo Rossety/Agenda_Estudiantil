@@ -1,4 +1,4 @@
-package bf.univsersitycompanion
+package utec.universitycompanion
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("bf.univsersitycompanion", appContext.packageName)
+        assertEquals("utec.universitycompanion", appContext.packageName)
     }
 }

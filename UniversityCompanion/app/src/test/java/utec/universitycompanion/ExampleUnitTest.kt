@@ -1,4 +1,4 @@
-package bf.univsersitycompanion
+package utec.universitycompanion
 
 import org.junit.Test
 
